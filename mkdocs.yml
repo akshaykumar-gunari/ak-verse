@@ -3,8 +3,10 @@ site_url: https://akshaykumar-gunari.github.io/ak-sphere/
 
 theme:
   name: material
+
   features:
     - navigation.tabs
+    - navigation.indexes
     - navigation.sections
     - toc.integrate
     - navigation.top
@@ -16,24 +18,34 @@ theme:
     - header.autohide
     - navigation.footer
     - announce.dismiss
+    - search.suggest
+    - seatch.highlight
+    - search.share
+
   language: en
   font:
     code: Roboto Mono
   palette:
-    - scheme: default
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
       toggle:
-        # icon: material/toggle-switch-off-outline 
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
-    - scheme: slate 
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
       toggle:
-        # icon: material/toggle-switch
         icon: material/brightness-4
-        name: Switch to light mode    
-      primary: teal
-      accent: lime
+        name: Switch to system preference
 
 extra:
   social:
@@ -43,12 +55,14 @@ extra:
       link: https://x.com/AkshaykumarGun2
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/akshaykumar-gunari-59b132167/
+  
 plugins:
-  - blog
+  - search
+  - git-authors
 nav:
   - index.md
-  - Blog:
-    - blog/index.md
+
+
 
 markdown_extensions:
   - pymdownx.highlight:

@@ -1,17 +1,16 @@
 # Welcome to AK Sphere
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hey Buddy!!
 
-## Commands
+Welcome to AK-Sphere, a comprehensive knowledge hub documenting my journey of learning, exploration, and expertise in the world of technology.
+This website serves as a repository of insights accross various domains including:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+ * Data Science
+ * Operating Systems
+ * Linux Kernel
+ * Automation
+ * And many more
 
-## Project layout
+I have tried to design a structured, in-depth technical documemtation, practical guide and paper reviews to inspire professionals, researchers, and enthusiasts alike.
+Join me to this journey of continuous learning and share the excitement journey of discovery in the ever-evolving world of technology.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
