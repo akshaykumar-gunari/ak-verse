@@ -1,4 +1,5 @@
 site_name: AK-Sphere
+site_url: https://akshaykumar-gunari.github.io/ak-sphere/
 
 theme:
   name: material
