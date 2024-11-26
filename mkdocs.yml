@@ -3,7 +3,6 @@ site_url: https://akshaykumar-gunari.github.io/ak-sphere/
 
 theme:
   name: material
-
   features:
     - navigation.tabs
     - navigation.indexes
