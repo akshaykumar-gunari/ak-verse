@@ -61,8 +61,6 @@ plugins:
 nav:
   - index.md
 
-
-
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
