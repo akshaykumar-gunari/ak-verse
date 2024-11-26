@@ -58,9 +58,25 @@ extra:
 plugins:
   - search
   - git-authors
-nav:
-  - index.md
 
+nav:
+  - Home: index.md
+  - Data Science:
+    - Home: blog/posts/data-science/index.md
+    - Supervised Learning:
+      - Post 1: blog/posts/data-science/post1.md
+      - Post 2: blog/posts/data-science/post2.md
+    - Unsupervised Learning:
+      - Post 1: blog/posts/data-science/post1.md
+  - Linux Kernel:
+    - Supervised Learning:
+      - Post 1: blog/posts/linux-kernel/post1.md
+  - Operating Systems:
+    - Supervised Learning:
+      - Post 1: blog/posts/operating-systems/post1.md
+  - Others:
+    - Supervised Learning:
+      - Post 1: blog/posts/others/post1.md
 
 markdown_extensions:
   - pymdownx.highlight:
