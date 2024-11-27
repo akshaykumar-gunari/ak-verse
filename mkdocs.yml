@@ -63,10 +63,14 @@ nav:
   - Home: index.md
   - Data Science:
     - Home: blog/posts/data-science/index.md
+    - Introductory Section:
+      - Post 1: blog/posts/data-science/post1.md
     - Supervised Learning:
       - Post 1: blog/posts/data-science/post1.md
       - Post 2: blog/posts/data-science/post2.md
     - Unsupervised Learning:
+      - Post 1: blog/posts/data-science/post1.md
+    - Paper Party:
       - Post 1: blog/posts/data-science/post1.md
   - Mathematics:
     - Home: blog/posts/mathematics/index.md
