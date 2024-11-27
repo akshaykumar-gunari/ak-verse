@@ -6,6 +6,7 @@ Welcome to AK-Sphere, a comprehensive knowledge hub documenting my journey of le
 This website serves as a repository of insights accross various domains including:
 
  * Data Science
+ * Mathematics
  * Operating Systems
  * Linux Kernel
  * Automation

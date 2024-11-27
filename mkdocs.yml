@@ -68,6 +68,12 @@ nav:
       - Post 2: blog/posts/data-science/post2.md
     - Unsupervised Learning:
       - Post 1: blog/posts/data-science/post1.md
+  - Mathematics:
+    - Home: blog/posts/mathematics/index.md
+    - Calculus:
+      - Post 1: blog/posts/mathematics/post1.md
+    - Linear Algebra:
+      - Post 1: blog/posts/mathematics/post1.md
   - Linux Kernel:
     - Supervised Learning:
       - Post 1: blog/posts/linux-kernel/post1.md
