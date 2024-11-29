@@ -29,3 +29,12 @@ This website serves as a repository of insights accross various domains includin
 I have tried to design a structured, in-depth technical documemtation, practical guide and paper reviews to inspire professionals, researchers, and enthusiasts alike.
 Join me to this journey of continuous learning and share the excitement journey of discovery in the ever-evolving world of technology.
 
+## A Journey of Lifelong Learning and Sharing
+
+Welcome to this platform **AK-Sphere** — a space crafted with the passion for learning and sharing knowledge in the ever-expanding world of technology. This site reflects my journey through education, exploration, and discovery, where each piece of knowledge I have gained is transformed into something valuable for others to learn and grow.
+
+I believe that learning is not confined to a classroom or a specific stage in life; it is a lifelong pursuit that continuously shapes us. Through this platform, I aspire to document every step of my learning process—whether it’s a concept I mastered during my studies, a challenge I overcame in my professional career, or an exciting new technology I explored out of sheer curiosity.
+
+My goal is simple yet profound: to contribute to a community of learners and technology enthusiasts by sharing insights, experiences, and ideas. I hope this space becomes a source of inspiration, understanding, and growth for anyone who visits it. At the same time, it serves as a reminder of my personal commitment to evolving alongside the fast-paced advancements in the technological world.
+
+This platform is more than just a repository of knowledge; it is a reflection of a mindset—a belief that knowledge grows when shared and that the pursuit of understanding is the most fulfilling journey of all.
