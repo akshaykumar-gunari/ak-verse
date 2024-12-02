@@ -20,13 +20,37 @@ This space is dedicated for exploring and documenting mathematical concepts, tec
 		- Basic concepts
 			- Sets and Functions
 			- Triginometric Functions
+			- Limits
+			- Continuity and Differentiability
+			- Tangents and Normals
+			- Monotonic Functions
 			- Algebra
 			- Coordinate Geometry
 			- Basics of Calculus
 			- Mathematical Reasoning
+			- Maxima and Minima
 			- Integral Calculus
 			- Vectors
 			- Linear Programming and Probability
+			- Complex Numbers
+			- Theory of Equations
+			- Progressions
+			- Permutations and Combinations
+			- Matrices and Determinants
+			- Inequalities
+			- Cartesian System of Rectangular Co-ordinates.
+			- Straight Lines and family of Straight Lines
+			- Circles
+			- Parabola
+			- Ellipse
+			- Hyperbola
+			- Trigonometrical Ratios and Identities
+			- Properties of Triangles and Circles Connected with them
+			- Solutions of Triangles
+			- Inverse Trigonometric Functions
+			- Trigonometrical Equations
+			- Logarithms
+			- Three Dimensional Geometry
 
 	2.  Linear Algebra
 		- Vectors and Matrices
