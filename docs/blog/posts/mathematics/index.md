@@ -2,7 +2,7 @@ Welcome to the Mathematics section of AK-Sphere!
 
 ### **Unlocking _Infinite_ Ideas with _Finite_ Numbers.**
 
-This space is dedicated to exploring and documenting mathematical concepts, techniques, and tools that form the foundation of advanced computing, data science, and problem-solving.
+This space is dedicated for exploring and documenting mathematical concepts, techniques, and tools that form the foundation of advanced computing, data science, and problem-solving.
 
 
 ## Why Math?
