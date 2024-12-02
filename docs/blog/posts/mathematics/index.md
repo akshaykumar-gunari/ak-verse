@@ -1,5 +1,7 @@
 Welcome to the Mathematics section of AK-Sphere! 
 
+### **Unlocking _Infinite_ Ideas with _Finite_ Numbers.**
+
 This space is dedicated to exploring and documenting mathematical concepts, techniques, and tools that form the foundation of advanced computing, data science, and problem-solving.
 
 
@@ -16,6 +18,15 @@ This space is dedicated to exploring and documenting mathematical concepts, tech
 
 	1. Basics
 		- Basic concepts
+			- Sets and Functions
+			- Triginometric Functions
+			- Algebra
+			- Coordinate Geometry
+			- Basics of Calculus
+			- Mathematical Reasoning
+			- Integral Calculus
+			- Vectors
+			- Linear Programming and Probability
 
 	2.  Linear Algebra
 		- Vectors and Matrices

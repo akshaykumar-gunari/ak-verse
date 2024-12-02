@@ -75,11 +75,11 @@ nav:
   - Mathematics:
     - Home: blog/posts/mathematics/index.md
     - Basics:
-      - Post 1: blog/posts/mathematics/post1.md
+      - Sets and Functions: blog/posts/mathematics/sets_and_functions.md
     - Linear Algebra:
-      - Post 1: blog/posts/mathematics/post1.md
+      - Post 1: blog/posts/mathematics/sets_and_functions.md
     - Calculus:
-      - Post 1: blog/posts/mathematics/post1.md
+      - Post 1: blog/posts/mathematics/sets_and_functions.md
   - Linux Kernel:
     - Supervised Learning:
       - Post 1: blog/posts/linux-kernel/post1.md
