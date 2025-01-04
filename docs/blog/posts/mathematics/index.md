@@ -1,4 +1,4 @@
-Welcome to the Mathematics section of AK-Sphere! 
+Welcome to the Mathematics section of AK-Verse!
 
 ### **Unlocking _Infinite_ Ideas with _Finite_ Numbers.**
 

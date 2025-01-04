@@ -1,4 +1,4 @@
-Welcome to the Data Science section of AK-Sphere!
+Welcome to the Data Science section of AK-Verse!
 
 > The best way to predict the future is to invent it. -- _Alan Kay (A great reminder for innovators in AI and ML.)_
 
