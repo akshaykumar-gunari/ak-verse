@@ -70,6 +70,8 @@ nav:
       - Post 2: blog/posts/data-science/post2.md
     - Unsupervised Learning:
       - Post 1: blog/posts/data-science/post1.md
+    - Computer Vision:
+      - Introduction to CV: blog/posts/data-science/computer_vision.md
     - Paper Party:
       - Post 1: blog/posts/data-science/post1.md
   - Mathematics:

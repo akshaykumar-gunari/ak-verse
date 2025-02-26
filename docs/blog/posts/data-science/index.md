@@ -56,11 +56,40 @@ I think these quotes are enough to find a valid reason to deep dive into the wor
 
 ## 5. Specialized Areas
 
-### Computer Vision
-- Convolutional Neural Networks (CNNs)
-- Object Detection (YOLO, SSD)
-- Image Segmentation (U-Net, Mask R-CNN)
-- Applications (Facial Recognition, Self-Driving Cars)
+### [Computer Vision](computer_vision.md)
+
+ - Part 0: Pre-requisites:
+ 	- Strong motivation
+ 	- Basic co-ordinate geometry
+ 	- Matrix Algebra
+ 	- Random Process
+ 	- Digital Image Processing
+
+ - Part 1: Introduction to CV.
+ 	- Basic concepts of computer Vision:
+ 		- Basic concepts of Image Formation: Image Formation and Radiometry, Geometric Transformations, Geometric corner models, Image reconstruction from a series of projections.
+ - Part 2: Image Processing Concepts.
+ 	- Fundamentals of Image Processing, Image transforms, Image filtering, Colour Image Processing, Mathematical Morphology, Image segmentation.
+ - Part 3: Image Descriptors and Features:
+ 	- Texture Descriptors, Colour features, Edge detection, Object boundary and Shape Representations.
+ 	- Interest of corner point detectors
+ 	- Histogram of oriented gradients
+ 	- Scale invarient Feature Transforms
+ 	- Speeded up robust features
+ 	- Saliency
+ - Part 4: Machine Learning Algorithm for Computer Vision:
+ 	- Statistical ML  algorithms for different computer vision applications
+ 	- Supervised and unsupervised learning
+ 	- Gaussian classifiers
+ 	- Parameter Estimation
+ 	- Clustering for Knowledge Representation
+ 	- Dimension Reduction
+ 	- Artificial and Deep Networks for computer vision applications
+ - Part 5: Applications of computer vision:
+ 	- Medical Image segmentation
+ 	- Motion estimation and Object Tracting
+ 	- Face and Facial Expression Recognition
+ 	- Image Fusion and Gesture Recognition
 
 ### Natural Language Processing (NLP)
 - Text Preprocessing (Tokenization, Stemming, Lemmatization)
