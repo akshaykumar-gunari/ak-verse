@@ -57,7 +57,6 @@ I think these quotes are enough to find a valid reason to deep dive into the wor
 ## 5. Specialized Areas
 
 ### [Computer Vision](computer_vision.md)
-
  - Part 0: Pre-requisites:
  	- Strong motivation
  	- Basic co-ordinate geometry
