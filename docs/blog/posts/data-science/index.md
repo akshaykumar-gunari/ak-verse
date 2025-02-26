@@ -66,7 +66,8 @@ I think these quotes are enough to find a valid reason to deep dive into the wor
 
  - Part 1: Introduction to CV.
  	- Basic concepts of computer Vision:
- 		- Basic concepts of Image Formation: Image Formation and Radiometry, Geometric Transformations, Geometric corner models, Image reconstruction from a series of projections.
+ 		- Basic concepts of Image Formation: 
+ 			- Image Formation and Radiometry, Geometric Transformations, Geometric corner models, Image reconstruction from a series of projections.
  - Part 2: Image Processing Concepts.
  	- Fundamentals of Image Processing, Image transforms, Image filtering, Colour Image Processing, Mathematical Morphology, Image segmentation.
  - Part 3: Image Descriptors and Features:
